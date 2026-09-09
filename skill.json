@@ -1,0 +1,17 @@
+{
+  "name": "genpark-merkle-tree-cryptographic-proof-verifier-skill",
+  "version": "1.0.0",
+  "description": "Autonomous Agent Cryptographic Merkle Tree Engine with SHA-256 Audit Path Generation & Proof Verification",
+  "entry_point": "client.py",
+  "example": "example_usage.py",
+  "mcp_server": "mcp_server.py",
+  "dependencies": [],
+  "tags": [
+    "genpark-skill",
+    "agentic-ai",
+    "cryptography",
+    "merkle-tree",
+    "cryptographic-proof",
+    "audit-path"
+  ]
+}
